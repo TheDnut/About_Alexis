@@ -1,0 +1,33 @@
+body {
+	background-image: url(game.jpg);
+	background-size: cover;
+	font-family: 'Zen Dots', cursive;
+}
+
+.formulaire {
+	border: 2px solid black;
+	padding: 10px;
+	margin: 5px;
+	box-shadow: 2px 5px;
+}
+
+.test1 {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.liste {
+	border: 2px solid black;
+	padding: 10px;
+	margin: 5px;
+	box-shadow: 2px 5px black;
+	list-style: none;
+	background-color: floralwhite;
+}
+
+span {
+	text-decoration: underline;
+	font-weight: bold;
+}
